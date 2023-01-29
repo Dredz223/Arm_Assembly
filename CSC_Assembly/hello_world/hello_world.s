@@ -1,6 +1,7 @@
 // hello world source file
 // assemble: g++ hello_world.s -g -o hello_world
 // ( -g is optional for generating debug info )
+// ./hello_world to run code
 
 .global main
 
